@@ -5,7 +5,7 @@ edition = "2024"
 license = "MIT"
 
 [dependencies]
-az-dioxus-admin-shell = { git = "https://github.com/zjarlin/dioxus-admin-workbench.git", rev = "bc77f06cf705873e9aeb17bd260a5ec98184e84d" }
+az-dioxus-admin-shell = { git = "https://github.com/zjarlin/dioxus-admin-workbench.git", rev = "7ffc224ce07f12b0726738f5cd7198567e9fb91d" }
 dill = "0.15.0"
 
 [lints.rust]
